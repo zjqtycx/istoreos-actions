@@ -35,9 +35,8 @@ jobs:
           # - istoreos-23.05
         ARCHITECTURE:
           #- rk33xx
-          #- rk35xx
+          - rk35xx
           #- x86
-          -h88k
         os:
           - ubuntu-22.04
         include:
